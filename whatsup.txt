@@ -9,3 +9,7 @@ This is whats up code:
 4.attachments (image,audio, video)
 
 Hiding the last seen
+
+Audio feature added
+
+video feature added
