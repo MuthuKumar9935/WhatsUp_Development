@@ -7,3 +7,5 @@ This is whats up code:
 3.last seen code
 
 4.attachments (image,audio, video)
+
+Hiding the last seen
